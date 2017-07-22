@@ -1,6 +1,14 @@
-# Password Strength Calculator
+# Калькулятор сложности пароля
 
-[TODO. There will be project description]
+Скрипт получает на вход пароль и выдаёт ему оценку от 1 до 10. 
+1 – очень слабый пароль, 10 – очень крутой.
+
+# Использование
+
+```#!bash
+Введите пароль: skldfjlldfjAFSJ123
+Сложность пароля: 9
+```
 
 # Project Goals
 
